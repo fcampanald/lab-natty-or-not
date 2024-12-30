@@ -1,0 +1,15 @@
+# Natal do Sorvete de Uva
+
+## 📒 Descrição
+Representação grafica de um sorvete de uva desejando um feliz natal.
+
+## 🤖 Tecnologias Utilizadas
+Chat GPT (IA generativa) - utilizado para criação da linguagem verbal do projeto
+Whatsapp Meta AI (IA generativa) - utilizada para criação da linguagem não verbal do projeto (imagem). 
+## 🧐 Processo de Criação
+  Usamos o prompt "Escreva uma mensagem de um sorvete de uva desejando feliz natal", e Chat GPT gerou o texto. Pedimos a Meta AI do WHatsapp para gerar uma imagem de um sorvete falando o texto que recebemos do chat GPT. 
+
+## 🚀 Resultados
+Uma imagem com texto. 
+## 💭 Reflexão (Opcional)
+Interessante trabalhar com IA generativa em diferentes contextos. 
